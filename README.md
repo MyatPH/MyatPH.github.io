@@ -7,4 +7,4 @@
 This is my school account.
 
 ### Description for the repository:
-This repository will hold assignments for my class.
+This repository will hold assignments.
