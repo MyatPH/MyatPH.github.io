@@ -22,10 +22,12 @@ This repository will hold assignments.
 * 🎮 Gaming is another big part of my life.
 * ✈️ Traveling is something I truly enjoy, exploring new places, sightseeing or even a short roadtrip.
   
-![My Car]()
+  
 
-    
-    
+
+ ![Tender Aesthetic Inspirational Photo Collage Your Story](https://github.com/user-attachments/assets/07323a3e-136a-4195-be32-e54616c19674)
+ 
+
 ## Websites I Recommend
 * [Reddit] (https://www.reddit.com) - I suggested Reddit because you can literally search anything and find a community or discussion for it whether it's cars,            animals, gaming, or anything else.
 * [Student Beans] (https://www.studentbeans.com) - It’s a great platform for students to access exclusive discounts on so many different products.
