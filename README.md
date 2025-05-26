@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Myat Phone's GitHub Repository
-=======
 # MyatPH.github.io
->>>>>>> 50d634097d62d823fd9e26c8cb510b84a02063f9
 
 **Name**: Myat Phone  
 **Email**: mphone@my.waketech.edu  
@@ -11,10 +7,7 @@
 This is my school account.
 
 ### Description for the repository:
-<<<<<<< HEAD
 This repository will hold assignments for my class.
-=======
-This repository will hold assignments.
 
 # About Me
    Hey everyone! My name is Myat, but I go by John. I recently moved to North Carolina and am super excited to dive into programming, even though I am just starting out.
@@ -36,7 +29,7 @@ This repository will hold assignments.
  
 
 ## Websites I Recommend
-* [Reddit] (https://www.reddit.com) - I suggested Reddit because you can literally search anything and find a community or discussion for it whether it's cars,            animals, gaming, or anything else.
+* [Reddit] (https://www.reddit.com) - I suggested Reddit because you can literally search anything and find a community or discussion for it whether it's cars, animals, gaming, or anything else.
 * [Student Beans] (https://www.studentbeans.com) - It’s a great platform for students to access exclusive discounts on so many different products.
 
   
@@ -44,4 +37,3 @@ This repository will hold assignments.
 
 
   
->>>>>>> 50d634097d62d823fd9e26c8cb510b84a02063f9
